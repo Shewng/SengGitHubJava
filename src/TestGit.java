@@ -18,6 +18,7 @@ public class TestGit {
 		 * git push -u origin master
 		 * 
 		 * to add a java project into my own github:
+		 * (or anything into the repository)
 		 * 
 		 * git add .
 		 * git commit -m "second commit"
